@@ -116,12 +116,12 @@ Based on the 1M+ MathWallet users, MathChain is focusing on smart wallet, massiv
 ## Development Roadmap :nut_and_bolt:
 
 ### Overview
-* **Total Estimate Duration:** 2 weeks
+* **Total Estimate Duration:** 1 month
 * **Full-time Equivalent(FTE):** 2.5
 * **Total cost:** 5000 USD
 
 ### Milestone 1 - create fundamental environment for ELC
-* **Estimated Duration:** 2 weeks
+* **Estimated Duration:** 1 month
 * **FTE:**  2.5
 * **Costs:** 5000 USD
 
