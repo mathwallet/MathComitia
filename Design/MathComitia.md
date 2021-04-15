@@ -15,7 +15,7 @@
 
 ### Project Details
 
-MathComitia is dapp based with VueJS frontend / PHP backend, and can be connected to any substrate based chains.
+MathComitia is a dapp based on VueJS frontend / PHP backend, and can be connected to any substrate based chains.
 
 #### Design Overview
 
@@ -57,30 +57,29 @@ The static content on the system will support multi-languages.
 
 We will try to keep the technology stack simple so that it can be easily setup.
 
-Frontend: VueJS
-Wallet Connection: PolkadotJS
-Backend: PHP
-Database: MySQL
+  * Frontend: VueJS
+  * Wallet Connection: PolkadotJS
+  * Backend: PHP
+  * Database: MySQL
 
 #### What your project is not or will not provide or implement
 
-This project will not store user information. All user account is address based.
-This project will not target for on-chain governance integration.
+  * This project will not store user information. All user account is address based.
+  * This project will not target for on-chain governance integration.
 
 ### Ecosystem Fit
 
 * Where and how does your project fit into the ecosystem?
-It will be used as polkaproject.org legitimate information report and vote system at the first version. Any user has polkadot wallet can participate the system.
+  It will be used as polkaproject.org legitimate information report and vote system at the first version. Any user has polkadot wallet can participate the system.
 
 * Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-At the first stage it will target to solve the needs of PolkaProject and MathDappStore as legitimate information report system, and for MathChain as community feature requesting voting system. But in a long term we think it is useful to all parachain communities and dapp communities.
+  At the first stage it will target to solve the needs of PolkaProject and MathDappStore as legitimate information report system, and for MathChain as community feature requesting voting system. But in a long term we think it is useful to all parachain communities and dapp communities.
 
 * What need(s) does your project meet?
-Light-weight voting system based on polkadot address.
+  Light-weight voting system based on polkadot address.
 
 * Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-To the best of our knowledge, there is no project similar to this project in Polkadot ecosystem.
-In Ethereum there is Snapshot project, but we think combine with Polkadot multi-chain and identity system, MathComitia will be more useful than Snapshot.
+  To the best of our knowledge, there is no project similar to this project in Polkadot ecosystem. In Ethereum there is Snapshot project, but we think combine with Polkadot multi-chain and identity system, MathComitia will be more useful than Snapshot.
 
 ## Team :busts_in_silhouette:
 
