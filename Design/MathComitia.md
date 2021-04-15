@@ -128,8 +128,9 @@ Based on the 1M+ MathWallet users, MathChain is focusing on smart wallet, massiv
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | GNU General Public License v3.0 / Apache 2.0 |
-| 0b. | Documentation | We will provide both inline documentation of the code and a tutorial that explains how a user can use MathComitia. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0b. | Documentation | We will provide both inline documentation of the code and a tutorial of deployment of the system. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
+| 0d. | Article/Tutorial | In the guide, we will describe explains how a user can use MathComitia. |
 | 1. |  UI | Complete the UI design of the dapp. |
 | 2a. | Frontend | Develop frontend based on VueJS. |
 | 2b. | Backend | Develop backend based on PHP and MySQL |
